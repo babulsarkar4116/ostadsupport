@@ -1,0 +1,15 @@
+{
+  "name": "day-8-support",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start-dev": "nodemon whileloop.js"
+  },
+  "keywords": [],
+  "author": "sarkar",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
