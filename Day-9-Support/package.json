@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start-dev": "nodemon whileloop.js"
+    "start-dev": "nodemon templateliterals.js"
   },
   "keywords": [],
   "author": "sarkar",

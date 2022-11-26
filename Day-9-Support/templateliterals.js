@@ -15,3 +15,6 @@ let instituteName="Lead Educare"
 // let desc=`My name is ${sName}, My age is ${age} and i am a ${isStudent}`
 // console.log(desc);
 
+let isStudent=true
+
+console.log(`He is ${isStudent==true? 'a student':'not a student'}`);
