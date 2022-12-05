@@ -1,0 +1,15 @@
+{
+  "name": "day-12-support",
+  "version": "1.0.0",
+  "description": "",
+  "main": "map.js",
+  "scripts": {
+    "start-dev": "nodemon map.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
